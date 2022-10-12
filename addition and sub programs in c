@@ -1,0 +1,32 @@
+
+//Addition of two numbers in c
+
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+    int a,b;
+    printf("Enter the first number is : ");
+    scanf("%d", &a);
+    printf("Enter the second number is : ");
+    scanf("%d", &b);
+    printf("Sum of the Two number is: %d",a+b);
+    return 0;
+}
+
+
+//Addition of two numbers in c
+
+
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+    int a,b;
+    printf("Enter the first number is : ");
+    scanf("%d", &a);
+    printf("Enter the second number is : ");
+    scanf("%d", &b);
+    printf("Sum of the Two number is: %d",a+b);
+    return 0;
+}
